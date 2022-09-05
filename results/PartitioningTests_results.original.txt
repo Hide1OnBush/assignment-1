@@ -1,0 +1,31 @@
+Testsuite: swen90006.mfa.PartitioningTests
+Tests run: 28, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.047 sec
+
+Testcase: register_EC_9 took 0.016 sec
+Testcase: getData_EC_1 took 0 sec
+Testcase: getData_EC_2 took 0 sec
+Testcase: getData_EC_3 took 0 sec
+Testcase: getData_EC_4 took 0 sec
+Testcase: getData_EC_5 took 0 sec
+Testcase: getData_EC_6 took 0 sec
+Testcase: getData_EC_7 took 0 sec
+Testcase: getData_EC_8 took 0 sec
+Testcase: anotherTest took 0 sec
+Testcase: register_EC_10 took 0 sec
+Testcase: register_EC_11 took 0 sec
+Testcase: register_EC_12 took 0 sec
+Testcase: register_EC_13 took 0 sec
+Testcase: register_EC_14 took 0 sec
+Testcase: register_EC_15 took 0 sec
+Testcase: register_EC_16 took 0.015 sec
+Testcase: aFailedTest took 0 sec
+Testcase: aTest took 0 sec
+Testcase: respondToPushNotification_EC_21 took 0 sec
+Testcase: respondToPushNotification_EC_22 took 0 sec
+Testcase: respondToPushNotification_EC_23 took 0 sec
+Testcase: respondToPushNotification_EC_24 took 0 sec
+Testcase: anExceptionTest took 0 sec
+Testcase: login_EC_17 took 0 sec
+Testcase: login_EC_18 took 0 sec
+Testcase: login_EC_19 took 0 sec
+Testcase: login_EC_20 took 0 sec
