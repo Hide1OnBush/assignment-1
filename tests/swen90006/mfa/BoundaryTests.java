@@ -243,6 +243,24 @@ public class BoundaryTests
         mfa.register("Tester", "[[[[1234!!!", null);
     }
 
+    @Test()
+    public void register_B29() throws Throwable
+    {
+        mfa.register("Tester", "qwER12345678!!!!", null);
+    }
+
+    @Test()
+    public void register_B30() throws Throwable
+    {
+        mfa.register("Tester", "qW12!!!!", null);
+    }
+
+    @Test(expected = InvalidPasswordException.class)
+    public void register_B31() throws Throwable
+    {
+        mfa.register("Tester", "qW12!!!", null);
+    }
+
 
 
 

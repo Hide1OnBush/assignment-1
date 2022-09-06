@@ -116,7 +116,8 @@ public class MFA
 	    throw new DuplicateUserException(username);
 	}
 	//Check that the username and password are long enough
-	else if (username.length() < MINIMUM_USERNAME_LENGTH) {
+	// Mutant 2: change the username requirement
+	else if (username.length() < MINIMUM_USERNAME_LENGTH - 1) {
 	    throw new InvalidUsernameException(username);
 	}
         else if (password.length() < MINIMUM_PASSWORD_LENGTH) {

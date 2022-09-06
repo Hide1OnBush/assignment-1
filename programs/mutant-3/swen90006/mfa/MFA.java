@@ -145,7 +145,8 @@ public class MFA
                     special = true;
 		}
 	    }
-            if (!(letter && digit && special)) {
+	    // Mutant 3: change password must contain all of letter, digit and special letter to if password contains both letter and digit then report error
+            if (letter && digit) {
                 throw new InvalidPasswordException(password);
             }
 	}

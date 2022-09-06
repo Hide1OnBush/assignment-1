@@ -220,7 +220,8 @@ public class MFA
     public AuthenticationStatus respondToPushNotification(String username, String deviceID)
 	throws NoSuchUserException, IncorrectDeviceIDException
     {
-	if (!isUser(username)) {
+    	// Mutant 5: change checking user not exist to report error to checking user exist to report error
+	if (isUser(username)) {
 	    throw new NoSuchUserException(username);
 	}
 	else if (authenticationStatus.get(username) == AuthenticationStatus.SINGLE) {

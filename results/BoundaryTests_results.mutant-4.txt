@@ -1,9 +1,9 @@
 Testsuite: swen90006.mfa.BoundaryTests
-Tests run: 59, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.062 sec
+Tests run: 59, Failures: 0, Errors: 1, Skipped: 0, Time elapsed: 0.057 sec
 
-Testcase: register_B6 took 0 sec
+Testcase: register_B6 took 0.002 sec
 Testcase: register_B7 took 0 sec
-Testcase: register_B8 took 0.015 sec
+Testcase: register_B8 took 0.01 sec
 Testcase: register_B9 took 0 sec
 Testcase: getData_B1 took 0 sec
 Testcase: getData_B2 took 0 sec
@@ -16,25 +16,36 @@ Testcase: register_B12 took 0 sec
 Testcase: register_B13 took 0 sec
 Testcase: register_B14 took 0 sec
 Testcase: register_B15 took 0 sec
-Testcase: register_B16 took 0 sec
-Testcase: register_B17 took 0 sec
+Testcase: register_B16 took 0.001 sec
+Testcase: register_B17 took 0.001 sec
+	Caused an ERROR
+Username Testerz does not comply with the requirements
+	- must contains at least 4 characters and contain only letters (a-z, A-Z)
+swen90006.mfa.InvalidUsernameException: Username Testerz does not comply with the requirements
+	- must contains at least 4 characters and contain only letters (a-z, A-Z)
+	at swen90006.mfa.MFA.register(MFA.java:130)
+	at swen90006.mfa.BoundaryTests.register_B17(Unknown Source)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+
 Testcase: register_B18 took 0 sec
-Testcase: register_B19 took 0 sec
+Testcase: register_B19 took 0.001 sec
 Testcase: register_B20 took 0 sec
 Testcase: register_B21 took 0 sec
 Testcase: register_B22 took 0 sec
 Testcase: register_B23 took 0 sec
 Testcase: register_B24 took 0 sec
 Testcase: register_B25 took 0 sec
-Testcase: register_B26 took 0 sec
+Testcase: register_B26 took 0.001 sec
 Testcase: register_B27 took 0 sec
 Testcase: register_B28 took 0 sec
 Testcase: register_B29 took 0 sec
 Testcase: register_B30 took 0 sec
 Testcase: register_B31 took 0 sec
 Testcase: anotherTest took 0 sec
-Testcase: register_EC_9 took 0.016 sec
-Testcase: getData_EC_1 took 0 sec
+Testcase: register_EC_9 took 0.003 sec
+Testcase: getData_EC_1 took 0.001 sec
 Testcase: getData_EC_2 took 0 sec
 Testcase: getData_EC_3 took 0 sec
 Testcase: getData_EC_4 took 0 sec
@@ -47,16 +58,16 @@ Testcase: register_EC_11 took 0 sec
 Testcase: register_EC_12 took 0 sec
 Testcase: register_EC_13 took 0 sec
 Testcase: register_EC_14 took 0 sec
-Testcase: register_EC_15 took 0 sec
+Testcase: register_EC_15 took 0.001 sec
 Testcase: register_EC_16 took 0 sec
 Testcase: aFailedTest took 0 sec
 Testcase: aTest took 0 sec
 Testcase: respondToPushNotification_EC_21 took 0 sec
 Testcase: respondToPushNotification_EC_22 took 0 sec
-Testcase: respondToPushNotification_EC_23 took 0 sec
+Testcase: respondToPushNotification_EC_23 took 0.007 sec
 Testcase: respondToPushNotification_EC_24 took 0 sec
-Testcase: anExceptionTest took 0.015 sec
+Testcase: anExceptionTest took 0 sec
 Testcase: login_EC_17 took 0 sec
-Testcase: login_EC_18 took 0 sec
+Testcase: login_EC_18 took 0.001 sec
 Testcase: login_EC_19 took 0 sec
 Testcase: login_EC_20 took 0 sec

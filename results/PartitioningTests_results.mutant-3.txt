@@ -1,0 +1,495 @@
+Testsuite: swen90006.mfa.PartitioningTests
+Tests run: 28, Failures: 0, Errors: 28, Skipped: 0, Time elapsed: 0.041 sec
+
+Testcase: register_EC_9 took 0.012 sec
+	Caused an ERROR
+Password Password1! does not comply with the requirements
+	- must contains at least 8 characters,
+ at least one letter (a-z, A-Z),
+ at least one digit (0-9), and 
+ at least one special character that is not a letter or digit
+swen90006.mfa.InvalidPasswordException: Password Password1! does not comply with the requirements
+	- must contains at least 8 characters,
+ at least one letter (a-z, A-Z),
+ at least one digit (0-9), and 
+ at least one special character that is not a letter or digit
+	at swen90006.mfa.MFA.register(MFA.java:150)
+	at swen90006.mfa.PartitioningTests.setUp(Unknown Source)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+
+Testcase: getData_EC_1 took 0 sec
+	Caused an ERROR
+Password Password1! does not comply with the requirements
+	- must contains at least 8 characters,
+ at least one letter (a-z, A-Z),
+ at least one digit (0-9), and 
+ at least one special character that is not a letter or digit
+swen90006.mfa.InvalidPasswordException: Password Password1! does not comply with the requirements
+	- must contains at least 8 characters,
+ at least one letter (a-z, A-Z),
+ at least one digit (0-9), and 
+ at least one special character that is not a letter or digit
+	at swen90006.mfa.MFA.register(MFA.java:150)
+	at swen90006.mfa.PartitioningTests.setUp(Unknown Source)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+
+Testcase: getData_EC_2 took 0 sec
+	Caused an ERROR
+Password Password1! does not comply with the requirements
+	- must contains at least 8 characters,
+ at least one letter (a-z, A-Z),
+ at least one digit (0-9), and 
+ at least one special character that is not a letter or digit
+swen90006.mfa.InvalidPasswordException: Password Password1! does not comply with the requirements
+	- must contains at least 8 characters,
+ at least one letter (a-z, A-Z),
+ at least one digit (0-9), and 
+ at least one special character that is not a letter or digit
+	at swen90006.mfa.MFA.register(MFA.java:150)
+	at swen90006.mfa.PartitioningTests.setUp(Unknown Source)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+
+Testcase: getData_EC_3 took 0 sec
+	Caused an ERROR
+Password Password1! does not comply with the requirements
+	- must contains at least 8 characters,
+ at least one letter (a-z, A-Z),
+ at least one digit (0-9), and 
+ at least one special character that is not a letter or digit
+swen90006.mfa.InvalidPasswordException: Password Password1! does not comply with the requirements
+	- must contains at least 8 characters,
+ at least one letter (a-z, A-Z),
+ at least one digit (0-9), and 
+ at least one special character that is not a letter or digit
+	at swen90006.mfa.MFA.register(MFA.java:150)
+	at swen90006.mfa.PartitioningTests.setUp(Unknown Source)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+
+Testcase: getData_EC_4 took 0 sec
+	Caused an ERROR
+Password Password1! does not comply with the requirements
+	- must contains at least 8 characters,
+ at least one letter (a-z, A-Z),
+ at least one digit (0-9), and 
+ at least one special character that is not a letter or digit
+swen90006.mfa.InvalidPasswordException: Password Password1! does not comply with the requirements
+	- must contains at least 8 characters,
+ at least one letter (a-z, A-Z),
+ at least one digit (0-9), and 
+ at least one special character that is not a letter or digit
+	at swen90006.mfa.MFA.register(MFA.java:150)
+	at swen90006.mfa.PartitioningTests.setUp(Unknown Source)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+
+Testcase: getData_EC_5 took 0 sec
+	Caused an ERROR
+Password Password1! does not comply with the requirements
+	- must contains at least 8 characters,
+ at least one letter (a-z, A-Z),
+ at least one digit (0-9), and 
+ at least one special character that is not a letter or digit
+swen90006.mfa.InvalidPasswordException: Password Password1! does not comply with the requirements
+	- must contains at least 8 characters,
+ at least one letter (a-z, A-Z),
+ at least one digit (0-9), and 
+ at least one special character that is not a letter or digit
+	at swen90006.mfa.MFA.register(MFA.java:150)
+	at swen90006.mfa.PartitioningTests.setUp(Unknown Source)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+
+Testcase: getData_EC_6 took 0 sec
+	Caused an ERROR
+Password Password1! does not comply with the requirements
+	- must contains at least 8 characters,
+ at least one letter (a-z, A-Z),
+ at least one digit (0-9), and 
+ at least one special character that is not a letter or digit
+swen90006.mfa.InvalidPasswordException: Password Password1! does not comply with the requirements
+	- must contains at least 8 characters,
+ at least one letter (a-z, A-Z),
+ at least one digit (0-9), and 
+ at least one special character that is not a letter or digit
+	at swen90006.mfa.MFA.register(MFA.java:150)
+	at swen90006.mfa.PartitioningTests.setUp(Unknown Source)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+
+Testcase: getData_EC_7 took 0 sec
+	Caused an ERROR
+Password Password1! does not comply with the requirements
+	- must contains at least 8 characters,
+ at least one letter (a-z, A-Z),
+ at least one digit (0-9), and 
+ at least one special character that is not a letter or digit
+swen90006.mfa.InvalidPasswordException: Password Password1! does not comply with the requirements
+	- must contains at least 8 characters,
+ at least one letter (a-z, A-Z),
+ at least one digit (0-9), and 
+ at least one special character that is not a letter or digit
+	at swen90006.mfa.MFA.register(MFA.java:150)
+	at swen90006.mfa.PartitioningTests.setUp(Unknown Source)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+
+Testcase: getData_EC_8 took 0 sec
+	Caused an ERROR
+Password Password1! does not comply with the requirements
+	- must contains at least 8 characters,
+ at least one letter (a-z, A-Z),
+ at least one digit (0-9), and 
+ at least one special character that is not a letter or digit
+swen90006.mfa.InvalidPasswordException: Password Password1! does not comply with the requirements
+	- must contains at least 8 characters,
+ at least one letter (a-z, A-Z),
+ at least one digit (0-9), and 
+ at least one special character that is not a letter or digit
+	at swen90006.mfa.MFA.register(MFA.java:150)
+	at swen90006.mfa.PartitioningTests.setUp(Unknown Source)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+
+Testcase: anotherTest took 0 sec
+	Caused an ERROR
+Password Password1! does not comply with the requirements
+	- must contains at least 8 characters,
+ at least one letter (a-z, A-Z),
+ at least one digit (0-9), and 
+ at least one special character that is not a letter or digit
+swen90006.mfa.InvalidPasswordException: Password Password1! does not comply with the requirements
+	- must contains at least 8 characters,
+ at least one letter (a-z, A-Z),
+ at least one digit (0-9), and 
+ at least one special character that is not a letter or digit
+	at swen90006.mfa.MFA.register(MFA.java:150)
+	at swen90006.mfa.PartitioningTests.setUp(Unknown Source)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+
+Testcase: register_EC_10 took 0 sec
+	Caused an ERROR
+Password Password1! does not comply with the requirements
+	- must contains at least 8 characters,
+ at least one letter (a-z, A-Z),
+ at least one digit (0-9), and 
+ at least one special character that is not a letter or digit
+swen90006.mfa.InvalidPasswordException: Password Password1! does not comply with the requirements
+	- must contains at least 8 characters,
+ at least one letter (a-z, A-Z),
+ at least one digit (0-9), and 
+ at least one special character that is not a letter or digit
+	at swen90006.mfa.MFA.register(MFA.java:150)
+	at swen90006.mfa.PartitioningTests.setUp(Unknown Source)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+
+Testcase: register_EC_11 took 0 sec
+	Caused an ERROR
+Password Password1! does not comply with the requirements
+	- must contains at least 8 characters,
+ at least one letter (a-z, A-Z),
+ at least one digit (0-9), and 
+ at least one special character that is not a letter or digit
+swen90006.mfa.InvalidPasswordException: Password Password1! does not comply with the requirements
+	- must contains at least 8 characters,
+ at least one letter (a-z, A-Z),
+ at least one digit (0-9), and 
+ at least one special character that is not a letter or digit
+	at swen90006.mfa.MFA.register(MFA.java:150)
+	at swen90006.mfa.PartitioningTests.setUp(Unknown Source)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+
+Testcase: register_EC_12 took 0 sec
+	Caused an ERROR
+Password Password1! does not comply with the requirements
+	- must contains at least 8 characters,
+ at least one letter (a-z, A-Z),
+ at least one digit (0-9), and 
+ at least one special character that is not a letter or digit
+swen90006.mfa.InvalidPasswordException: Password Password1! does not comply with the requirements
+	- must contains at least 8 characters,
+ at least one letter (a-z, A-Z),
+ at least one digit (0-9), and 
+ at least one special character that is not a letter or digit
+	at swen90006.mfa.MFA.register(MFA.java:150)
+	at swen90006.mfa.PartitioningTests.setUp(Unknown Source)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+
+Testcase: register_EC_13 took 0 sec
+	Caused an ERROR
+Password Password1! does not comply with the requirements
+	- must contains at least 8 characters,
+ at least one letter (a-z, A-Z),
+ at least one digit (0-9), and 
+ at least one special character that is not a letter or digit
+swen90006.mfa.InvalidPasswordException: Password Password1! does not comply with the requirements
+	- must contains at least 8 characters,
+ at least one letter (a-z, A-Z),
+ at least one digit (0-9), and 
+ at least one special character that is not a letter or digit
+	at swen90006.mfa.MFA.register(MFA.java:150)
+	at swen90006.mfa.PartitioningTests.setUp(Unknown Source)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+
+Testcase: register_EC_14 took 0 sec
+	Caused an ERROR
+Password Password1! does not comply with the requirements
+	- must contains at least 8 characters,
+ at least one letter (a-z, A-Z),
+ at least one digit (0-9), and 
+ at least one special character that is not a letter or digit
+swen90006.mfa.InvalidPasswordException: Password Password1! does not comply with the requirements
+	- must contains at least 8 characters,
+ at least one letter (a-z, A-Z),
+ at least one digit (0-9), and 
+ at least one special character that is not a letter or digit
+	at swen90006.mfa.MFA.register(MFA.java:150)
+	at swen90006.mfa.PartitioningTests.setUp(Unknown Source)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+
+Testcase: register_EC_15 took 0.001 sec
+	Caused an ERROR
+Password Password1! does not comply with the requirements
+	- must contains at least 8 characters,
+ at least one letter (a-z, A-Z),
+ at least one digit (0-9), and 
+ at least one special character that is not a letter or digit
+swen90006.mfa.InvalidPasswordException: Password Password1! does not comply with the requirements
+	- must contains at least 8 characters,
+ at least one letter (a-z, A-Z),
+ at least one digit (0-9), and 
+ at least one special character that is not a letter or digit
+	at swen90006.mfa.MFA.register(MFA.java:150)
+	at swen90006.mfa.PartitioningTests.setUp(Unknown Source)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+
+Testcase: register_EC_16 took 0 sec
+	Caused an ERROR
+Password Password1! does not comply with the requirements
+	- must contains at least 8 characters,
+ at least one letter (a-z, A-Z),
+ at least one digit (0-9), and 
+ at least one special character that is not a letter or digit
+swen90006.mfa.InvalidPasswordException: Password Password1! does not comply with the requirements
+	- must contains at least 8 characters,
+ at least one letter (a-z, A-Z),
+ at least one digit (0-9), and 
+ at least one special character that is not a letter or digit
+	at swen90006.mfa.MFA.register(MFA.java:150)
+	at swen90006.mfa.PartitioningTests.setUp(Unknown Source)
+	at jdk.internal.reflect.GeneratedMethodAccessor1.invoke(Unknown Source)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+
+Testcase: aFailedTest took 0 sec
+	Caused an ERROR
+Password Password1! does not comply with the requirements
+	- must contains at least 8 characters,
+ at least one letter (a-z, A-Z),
+ at least one digit (0-9), and 
+ at least one special character that is not a letter or digit
+swen90006.mfa.InvalidPasswordException: Password Password1! does not comply with the requirements
+	- must contains at least 8 characters,
+ at least one letter (a-z, A-Z),
+ at least one digit (0-9), and 
+ at least one special character that is not a letter or digit
+	at swen90006.mfa.MFA.register(MFA.java:150)
+	at swen90006.mfa.PartitioningTests.setUp(Unknown Source)
+	at jdk.internal.reflect.GeneratedMethodAccessor1.invoke(Unknown Source)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+
+Testcase: aTest took 0 sec
+	Caused an ERROR
+Password Password1! does not comply with the requirements
+	- must contains at least 8 characters,
+ at least one letter (a-z, A-Z),
+ at least one digit (0-9), and 
+ at least one special character that is not a letter or digit
+swen90006.mfa.InvalidPasswordException: Password Password1! does not comply with the requirements
+	- must contains at least 8 characters,
+ at least one letter (a-z, A-Z),
+ at least one digit (0-9), and 
+ at least one special character that is not a letter or digit
+	at swen90006.mfa.MFA.register(MFA.java:150)
+	at swen90006.mfa.PartitioningTests.setUp(Unknown Source)
+	at jdk.internal.reflect.GeneratedMethodAccessor1.invoke(Unknown Source)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+
+Testcase: respondToPushNotification_EC_21 took 0 sec
+	Caused an ERROR
+Password Password1! does not comply with the requirements
+	- must contains at least 8 characters,
+ at least one letter (a-z, A-Z),
+ at least one digit (0-9), and 
+ at least one special character that is not a letter or digit
+swen90006.mfa.InvalidPasswordException: Password Password1! does not comply with the requirements
+	- must contains at least 8 characters,
+ at least one letter (a-z, A-Z),
+ at least one digit (0-9), and 
+ at least one special character that is not a letter or digit
+	at swen90006.mfa.MFA.register(MFA.java:150)
+	at swen90006.mfa.PartitioningTests.setUp(Unknown Source)
+	at jdk.internal.reflect.GeneratedMethodAccessor1.invoke(Unknown Source)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+
+Testcase: respondToPushNotification_EC_22 took 0 sec
+	Caused an ERROR
+Password Password1! does not comply with the requirements
+	- must contains at least 8 characters,
+ at least one letter (a-z, A-Z),
+ at least one digit (0-9), and 
+ at least one special character that is not a letter or digit
+swen90006.mfa.InvalidPasswordException: Password Password1! does not comply with the requirements
+	- must contains at least 8 characters,
+ at least one letter (a-z, A-Z),
+ at least one digit (0-9), and 
+ at least one special character that is not a letter or digit
+	at swen90006.mfa.MFA.register(MFA.java:150)
+	at swen90006.mfa.PartitioningTests.setUp(Unknown Source)
+	at jdk.internal.reflect.GeneratedMethodAccessor1.invoke(Unknown Source)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+
+Testcase: respondToPushNotification_EC_23 took 0 sec
+	Caused an ERROR
+Password Password1! does not comply with the requirements
+	- must contains at least 8 characters,
+ at least one letter (a-z, A-Z),
+ at least one digit (0-9), and 
+ at least one special character that is not a letter or digit
+swen90006.mfa.InvalidPasswordException: Password Password1! does not comply with the requirements
+	- must contains at least 8 characters,
+ at least one letter (a-z, A-Z),
+ at least one digit (0-9), and 
+ at least one special character that is not a letter or digit
+	at swen90006.mfa.MFA.register(MFA.java:150)
+	at swen90006.mfa.PartitioningTests.setUp(Unknown Source)
+	at jdk.internal.reflect.GeneratedMethodAccessor1.invoke(Unknown Source)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+
+Testcase: respondToPushNotification_EC_24 took 0 sec
+	Caused an ERROR
+Password Password1! does not comply with the requirements
+	- must contains at least 8 characters,
+ at least one letter (a-z, A-Z),
+ at least one digit (0-9), and 
+ at least one special character that is not a letter or digit
+swen90006.mfa.InvalidPasswordException: Password Password1! does not comply with the requirements
+	- must contains at least 8 characters,
+ at least one letter (a-z, A-Z),
+ at least one digit (0-9), and 
+ at least one special character that is not a letter or digit
+	at swen90006.mfa.MFA.register(MFA.java:150)
+	at swen90006.mfa.PartitioningTests.setUp(Unknown Source)
+	at jdk.internal.reflect.GeneratedMethodAccessor1.invoke(Unknown Source)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+
+Testcase: anExceptionTest took 0 sec
+	Caused an ERROR
+Password Password1! does not comply with the requirements
+	- must contains at least 8 characters,
+ at least one letter (a-z, A-Z),
+ at least one digit (0-9), and 
+ at least one special character that is not a letter or digit
+swen90006.mfa.InvalidPasswordException: Password Password1! does not comply with the requirements
+	- must contains at least 8 characters,
+ at least one letter (a-z, A-Z),
+ at least one digit (0-9), and 
+ at least one special character that is not a letter or digit
+	at swen90006.mfa.MFA.register(MFA.java:150)
+	at swen90006.mfa.PartitioningTests.setUp(Unknown Source)
+	at jdk.internal.reflect.GeneratedMethodAccessor1.invoke(Unknown Source)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+
+Testcase: login_EC_17 took 0 sec
+	Caused an ERROR
+Password Password1! does not comply with the requirements
+	- must contains at least 8 characters,
+ at least one letter (a-z, A-Z),
+ at least one digit (0-9), and 
+ at least one special character that is not a letter or digit
+swen90006.mfa.InvalidPasswordException: Password Password1! does not comply with the requirements
+	- must contains at least 8 characters,
+ at least one letter (a-z, A-Z),
+ at least one digit (0-9), and 
+ at least one special character that is not a letter or digit
+	at swen90006.mfa.MFA.register(MFA.java:150)
+	at swen90006.mfa.PartitioningTests.setUp(Unknown Source)
+	at jdk.internal.reflect.GeneratedMethodAccessor1.invoke(Unknown Source)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+
+Testcase: login_EC_18 took 0 sec
+	Caused an ERROR
+Password Password1! does not comply with the requirements
+	- must contains at least 8 characters,
+ at least one letter (a-z, A-Z),
+ at least one digit (0-9), and 
+ at least one special character that is not a letter or digit
+swen90006.mfa.InvalidPasswordException: Password Password1! does not comply with the requirements
+	- must contains at least 8 characters,
+ at least one letter (a-z, A-Z),
+ at least one digit (0-9), and 
+ at least one special character that is not a letter or digit
+	at swen90006.mfa.MFA.register(MFA.java:150)
+	at swen90006.mfa.PartitioningTests.setUp(Unknown Source)
+	at jdk.internal.reflect.GeneratedMethodAccessor1.invoke(Unknown Source)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+
+Testcase: login_EC_19 took 0 sec
+	Caused an ERROR
+Password Password1! does not comply with the requirements
+	- must contains at least 8 characters,
+ at least one letter (a-z, A-Z),
+ at least one digit (0-9), and 
+ at least one special character that is not a letter or digit
+swen90006.mfa.InvalidPasswordException: Password Password1! does not comply with the requirements
+	- must contains at least 8 characters,
+ at least one letter (a-z, A-Z),
+ at least one digit (0-9), and 
+ at least one special character that is not a letter or digit
+	at swen90006.mfa.MFA.register(MFA.java:150)
+	at swen90006.mfa.PartitioningTests.setUp(Unknown Source)
+	at jdk.internal.reflect.GeneratedMethodAccessor1.invoke(Unknown Source)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+
+Testcase: login_EC_20 took 0 sec
+	Caused an ERROR
+Password Password1! does not comply with the requirements
+	- must contains at least 8 characters,
+ at least one letter (a-z, A-Z),
+ at least one digit (0-9), and 
+ at least one special character that is not a letter or digit
+swen90006.mfa.InvalidPasswordException: Password Password1! does not comply with the requirements
+	- must contains at least 8 characters,
+ at least one letter (a-z, A-Z),
+ at least one digit (0-9), and 
+ at least one special character that is not a letter or digit
+	at swen90006.mfa.MFA.register(MFA.java:150)
+	at swen90006.mfa.PartitioningTests.setUp(Unknown Source)
+	at jdk.internal.reflect.GeneratedMethodAccessor1.invoke(Unknown Source)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+

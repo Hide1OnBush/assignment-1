@@ -306,7 +306,8 @@ public class MFA
 	    throw new UnauthenticatedUserException(username);
 	}
 	else {
-	    return data.get(username).get(index);
+		// Mutant 1: change index to index - 1
+	    return data.get(username).get(index - 1);
 	}
     }
 

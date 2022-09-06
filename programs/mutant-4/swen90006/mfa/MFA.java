@@ -125,7 +125,8 @@ public class MFA
 	else {
 	    //check the username contains only lower- and upper-case letters
 	    for (char c : username.toCharArray()) {
-		if (!('a' <= c && c <= 'z' || 'A' <= c && c <= 'Z')) {
+	    // Mutant 4: change user name requirement that missing z when check contain lower case
+		if (!('a' <= c && c <= 'y' || 'A' <= c && c <= 'Z')) {
 		    throw new InvalidUsernameException(username);
 		}
 	    }

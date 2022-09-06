@@ -1,9 +1,13 @@
 Testsuite: swen90006.mfa.BoundaryTests
-Tests run: 59, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.062 sec
+Tests run: 56, Failures: 2, Errors: 0, Skipped: 0, Time elapsed: 0.046 sec
 
 Testcase: register_B6 took 0 sec
 Testcase: register_B7 took 0 sec
-Testcase: register_B8 took 0.015 sec
+Testcase: register_B8 took 0 sec
+	FAILED
+Expected exception: swen90006.mfa.InvalidUsernameException
+junit.framework.AssertionFailedError: Expected exception: swen90006.mfa.InvalidUsernameException
+
 Testcase: register_B9 took 0 sec
 Testcase: getData_B1 took 0 sec
 Testcase: getData_B2 took 0 sec
@@ -29,11 +33,8 @@ Testcase: register_B25 took 0 sec
 Testcase: register_B26 took 0 sec
 Testcase: register_B27 took 0 sec
 Testcase: register_B28 took 0 sec
-Testcase: register_B29 took 0 sec
-Testcase: register_B30 took 0 sec
-Testcase: register_B31 took 0 sec
 Testcase: anotherTest took 0 sec
-Testcase: register_EC_9 took 0.016 sec
+Testcase: register_EC_9 took 0 sec
 Testcase: getData_EC_1 took 0 sec
 Testcase: getData_EC_2 took 0 sec
 Testcase: getData_EC_3 took 0 sec
@@ -43,6 +44,10 @@ Testcase: getData_EC_6 took 0 sec
 Testcase: getData_EC_7 took 0 sec
 Testcase: getData_EC_8 took 0 sec
 Testcase: register_EC_10 took 0 sec
+	FAILED
+Expected exception: swen90006.mfa.InvalidUsernameException
+junit.framework.AssertionFailedError: Expected exception: swen90006.mfa.InvalidUsernameException
+
 Testcase: register_EC_11 took 0 sec
 Testcase: register_EC_12 took 0 sec
 Testcase: register_EC_13 took 0 sec
@@ -55,7 +60,7 @@ Testcase: respondToPushNotification_EC_21 took 0 sec
 Testcase: respondToPushNotification_EC_22 took 0 sec
 Testcase: respondToPushNotification_EC_23 took 0 sec
 Testcase: respondToPushNotification_EC_24 took 0 sec
-Testcase: anExceptionTest took 0.015 sec
+Testcase: anExceptionTest took 0 sec
 Testcase: login_EC_17 took 0 sec
 Testcase: login_EC_18 took 0 sec
 Testcase: login_EC_19 took 0 sec

@@ -1,0 +1,92 @@
+Testsuite: swen90006.mfa.PartitioningTests
+Tests run: 28, Failures: 1, Errors: 6, Skipped: 0, Time elapsed: 0.047 sec
+
+Testcase: register_EC_9 took 0.016 sec
+Testcase: getData_EC_1 took 0 sec
+Testcase: getData_EC_2 took 0 sec
+Testcase: getData_EC_3 took 0 sec
+Testcase: getData_EC_4 took 0 sec
+Testcase: getData_EC_5 took 0 sec
+Testcase: getData_EC_6 took 0 sec
+	Caused an ERROR
+Username does not exist: Tester
+swen90006.mfa.NoSuchUserException: Username does not exist: Tester
+	at swen90006.mfa.MFA.respondToPushNotification(MFA.java:225)
+	at swen90006.mfa.PartitioningTests.getData_EC_6(Unknown Source)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+
+Testcase: getData_EC_7 took 0 sec
+	Caused an ERROR
+Unexpected exception, expected<java.lang.IndexOutOfBoundsException> but was<swen90006.mfa.NoSuchUserException>
+java.lang.Exception: Unexpected exception, expected<java.lang.IndexOutOfBoundsException> but was<swen90006.mfa.NoSuchUserException>
+Caused by: swen90006.mfa.NoSuchUserException: Username does not exist: Tester
+	at swen90006.mfa.MFA.respondToPushNotification(MFA.java:225)
+	at swen90006.mfa.PartitioningTests.getData_EC_7(Unknown Source)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+
+Testcase: getData_EC_8 took 0 sec
+	Caused an ERROR
+Unexpected exception, expected<java.lang.IndexOutOfBoundsException> but was<swen90006.mfa.NoSuchUserException>
+java.lang.Exception: Unexpected exception, expected<java.lang.IndexOutOfBoundsException> but was<swen90006.mfa.NoSuchUserException>
+Caused by: swen90006.mfa.NoSuchUserException: Username does not exist: Tester
+	at swen90006.mfa.MFA.respondToPushNotification(MFA.java:225)
+	at swen90006.mfa.PartitioningTests.getData_EC_8(Unknown Source)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+
+Testcase: anotherTest took 0 sec
+Testcase: register_EC_10 took 0 sec
+Testcase: register_EC_11 took 0 sec
+Testcase: register_EC_12 took 0 sec
+Testcase: register_EC_13 took 0 sec
+Testcase: register_EC_14 took 0 sec
+Testcase: register_EC_15 took 0 sec
+Testcase: register_EC_16 took 0 sec
+Testcase: aFailedTest took 0 sec
+Testcase: aTest took 0 sec
+Testcase: respondToPushNotification_EC_21 took 0 sec
+	FAILED
+Expected exception: swen90006.mfa.NoSuchUserException
+junit.framework.AssertionFailedError: Expected exception: swen90006.mfa.NoSuchUserException
+
+Testcase: respondToPushNotification_EC_22 took 0 sec
+	Caused an ERROR
+Username does not exist: Tester
+swen90006.mfa.NoSuchUserException: Username does not exist: Tester
+	at swen90006.mfa.MFA.respondToPushNotification(MFA.java:225)
+	at swen90006.mfa.PartitioningTests.respondToPushNotification_EC_22(Unknown Source)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+
+Testcase: respondToPushNotification_EC_23 took 0 sec
+	Caused an ERROR
+Unexpected exception, expected<swen90006.mfa.IncorrectDeviceIDException> but was<swen90006.mfa.NoSuchUserException>
+java.lang.Exception: Unexpected exception, expected<swen90006.mfa.IncorrectDeviceIDException> but was<swen90006.mfa.NoSuchUserException>
+Caused by: swen90006.mfa.NoSuchUserException: Username does not exist: Tester
+	at swen90006.mfa.MFA.respondToPushNotification(MFA.java:225)
+	at swen90006.mfa.PartitioningTests.respondToPushNotification_EC_23(Unknown Source)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+
+Testcase: respondToPushNotification_EC_24 took 0 sec
+	Caused an ERROR
+Username does not exist: Tester
+swen90006.mfa.NoSuchUserException: Username does not exist: Tester
+	at swen90006.mfa.MFA.respondToPushNotification(MFA.java:225)
+	at swen90006.mfa.PartitioningTests.respondToPushNotification_EC_24(Unknown Source)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+
+Testcase: anExceptionTest took 0 sec
+Testcase: login_EC_17 took 0 sec
+Testcase: login_EC_18 took 0 sec
+Testcase: login_EC_19 took 0 sec
+Testcase: login_EC_20 took 0 sec
